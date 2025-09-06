@@ -1,0 +1,2 @@
+# kartikfirstcode2
+THIS IS MY FIRST CODE IN GITHUB
